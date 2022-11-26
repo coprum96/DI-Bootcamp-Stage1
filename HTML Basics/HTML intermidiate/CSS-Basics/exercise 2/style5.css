@@ -1,0 +1,18 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    background-color: rgba(255, 0, 106, 0.5);
+    font-size: 18px;
+}
+#two {
+    color: blue;
+    font-size: 45px;
+}
+
+#four {
+    color: black;
+    background-color: greenyellow;
+    font-size: 25px;
+    font-weight: bold;
+}

@@ -1,0 +1,16 @@
+div {
+    color: azure;
+    font-size: large;
+    background-color: red;
+}
+
+p {
+    color: white;
+    background-color: green;
+
+}
+
+button {
+    color:black;
+    background-color: rgb(192, 114, 24);
+}
