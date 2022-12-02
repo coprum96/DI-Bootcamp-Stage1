@@ -1,0 +1,36 @@
+body {
+    width: 99%;
+    margin: 0 auto;
+
+}
+
+div {
+    border: 3px solid black;
+}
+
+
+.col {
+    width: 32%;
+    height: 400px;
+    display: inline-block;
+}
+
+.header {
+    background: purple;
+    width: 99%;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+
+.col-left {
+    background-color: red;
+}
+
+.col-center {
+    background-color: blue;
+}
+
+.col-right {
+    background-color: yellow;
+}

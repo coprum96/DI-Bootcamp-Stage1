@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.container {
+    background-color: yellow;
+    color: red;
+    font-size: 40px;
+    border: 20px;
+    text-align: center;
+}
+
+.text {
+    font-style: normal;
+    font-size: 25px;
+}
