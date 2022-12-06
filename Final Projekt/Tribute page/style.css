@@ -47,30 +47,14 @@
     border-radius: 1%;
     max-width: 100%;
     height: 60%;
+
   }
 
   img:hover {
     
   }
   
-  p {
-    text-align: right;
-    padding: 30px;
-    border: 4px solid rgb(10, 10, 180);
-  }
 
-  strong {
-    font-size: 110%;
-  }
-
-  h4 { 
-    text-align: center;
-    padding-bottom: 50px;
-  }
-
-  .text-center {
-    border: none; 
-}
 
 
 

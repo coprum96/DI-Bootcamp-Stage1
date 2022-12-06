@@ -1,0 +1,71 @@
+
+  #plate, nav {
+      max-width: 90rem;
+      background-image: url(https://img3.akspic.ru/crops/8/1/8/5/3/135818/135818-fialka-elektrik-purpur-prostranstvo-kosmicheskoe_prostranstvo-1920x1080.jpg);
+      opacity:initial;
+      margin: 5rem auto;
+      border-radius: 1%;
+      color: white;
+      padding: 30px;
+      
+      
+    }
+
+    #innerPlate {
+        max-width: 93%;
+        margin: 0 auto;
+        background-color: white;
+        border-radius: 0.8%;
+        color: black;
+      }
+    
+      .name {
+        margin: 5rem 0 2rem 0;
+        color: white;
+        font-size: 7rem;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+      p {
+        background-color: rgb(151, 142, 202);
+        color: black;
+        padding: 40px;
+        border: 5px dotted black;
+      }
+
+      .container {
+        width: 100%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    
+    }
+    
+    .col {
+        width: 33%;
+        height: 600px;
+        display: inline-block;
+        overflow: auto;
+        padding: 3px;
+    }
+
+strong {
+    font-size: 40px;
+}
+    
+    .col-left {
+        background-color: rgb(107, 105, 224);
+        color: rgb(0, 0, 14);
+        border: 3px solid black;
+    }
+    
+    .col-center {
+        background-color: rgb(64, 21, 182);
+        color: rgb(243, 233, 233);
+        border: 3px solid black;
+    }
+    
+    .col-right {
+        background-color: rgb(14, 14, 4);
+        color: yellow;
+        border: 3px solid black;
+    }
